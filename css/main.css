@@ -5,11 +5,227 @@ body
 	background-color: #EBEEF3;
 }
 
+/* --------------------------- GENERAL FONT STYLES --------------------------- */
+.section-header-text-blue
+{
+	font-family: Futura;
+	font-style: italic;
+	color: #133450;
+	font-size: 35px;
+	line-height: 24px;
+	font-weight: 100;
+	margin-top: 50px;
+}
 
 .body-text-blue
 {
 	font-family: Futura;
+	font-style: italic;
 	color: #133450;
 	font-size: 16px;
 	line-height: 24px;
+	margin-bottom: 50px;
+}
+
+.section-header-text-white
+{
+	font-family: Futura;
+	font-style: italic;
+	color: #F5F6FA;
+	font-size: 35px;
+	line-height: 42px;
+	margin-top: 35px;
+	font-weight: 100;
+}
+
+.body-text-white
+{
+	font-family: Futura;
+	font-style: italic;
+	color: #F5F6FA;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+
+/* --------------------------- SECTION: LANDING PAGE/HEADER --------------------------- */
+#section-landing-page
+{
+	background-image: url(../images/section-bckgnd-landing-page.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 667px;
+}
+
+#hamburger-nav-icon
+{
+	width: 10%;
+	height: 10%;
+	float: right;
+}
+
+.nav-link-style
+{
+	color: #133450;
+	font-size: 23px;
+	line-height: 40px;
+	font-family: Futura;
+	font-style: italic;
+	list-style: none;
+	padding: 10px;
+	float: left;
+}
+
+.nav-bar-links
+{
+	margin-top: 50px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+ul li a
+{
+	color: #133450;
+	padding: 0px 10px 0px 10px;
+}
+
+.nav-link-style:hover
+{
+	color: #F5F6FA;
+	transition-duration: 0.7s;
+}
+
+ul li a:hover
+{
+	color: #F5F6FA;
+	text-decoration: none;
+	background-color: #133450;
+	padding: 4px 10px 4px 10px;
+	transition-duration: 0.7s;
+}
+
+#main-logo
+{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+/* --------------------------- SECTION: WHO WE ARE --------------------------- */
+#section-who-we-are
+{
+	height: auto;
+	background-color: #EBEEF3;
+}
+
+/* --------------------------- SECTION: CARTER & NANDO'S PORTFOLIO'S --------------------------- */
+.section-carter-and-nando-portfolio-headers
+{
+	background-image: url(../images/section-bckgnd-portfolio.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 216px;
+}
+
+.portfolio-header-text
+{
+	float: left;
+	width: 50%;
+}
+
+.portfolio-header-headshot
+{
+	float: right;
+	margin-top: 33px;
+}
+
+.headshots
+{
+	width: 150px;
+}
+
+.portfolio-imgs
+{
+	margin: 20px 0px 20px 0px;
+}
+
+/* --------------------------- SECTION: GET IN TOUCH --------------------------- */
+#section-get-in-touch
+{
+	background-image: url(../images/section-bckgnd-get-in-touch-blue.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.contact-form-style
+{
+	border-color: #F5F6FA;
+	border-width: 2px;
+	border-style: solid;
+	width: 100%;
+	height: 40px;
+	background-color: transparent;
+	padding: 10px;
+	margin-bottom: 10px;
+	font-family: futura;
+	font-style: italic;
+	color: #F5F6FA;
+	font-size: 16px;
+}
+
+.contact-form-style-message-field
+{
+	border-color: #F5F6FA;
+	border-width: 2px;
+	border-style: solid;
+	width: 100%;
+	height: 160px;
+	background-color: transparent;
+	padding: 10px;
+	margin-bottom: 10px;
+	font-family: futura;
+	font-style: italic;
+	color: #F5F6FA;
+	font-size: 16px;
+}
+
+#contact-form-send-button
+{
+	width: 100%;
+	background-color: #F5F6FA;
+	border: none;
+	height: 40px;
+	font-family: Futura;
+	font-style: italic;
+	color: #133450;
+	font-size: 16px;
+	padding: 10px;
+	margin-bottom: 80px;
+}
+
+#contact-form-send-button:hover
+{
+	width: 100%;
+	background-color: #133450;
+	border: none;
+	height: 40px;
+	font-family: Futura;
+	font-style: italic;
+	color: #F5F6FA;
+	font-size: 16px;
+	padding: 10px;
+	transition-duration: 0.5s;
+}
+
+/* -------------------------------- SECTION: FOOTER -------------------------------- */
+#section-footer
+{
+	background-color: #133450;
+	height: 250px;
+}
+
+#footer-logo
+{
+	width: 200px;
+	padding: 30px 0px 10px 0px;
 }
