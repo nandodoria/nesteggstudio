@@ -1,26 +1,27 @@
 {
   "name": "agency_x",
   "version": "1.0.0",
-  "description": "extra credit in-class project",
+  "description": "Nest Egg Studio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crose20/agency_x.git"
+    "url": "git+https://github.com/nandodoria/nesteggstudio.git"
   },
   "keywords": [
-    "extra",
-    "credit",
-    "project"
+    "Fanshawe",
+    "Agency",
+    "Project",
+    "Nest Egg Studio"
   ],
   "author": "Carter and Fernando",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crose20/agency_x/issues"
+    "url": "https://github.com/nandodoria/nesteggstudio/issues"
   },
-  "homepage": "https://github.com/crose20/agency_x#readme",
+  "homepage": "https://github.com/nandodoria/nesteggstudio#readme",
   "dependencies": {
     "gulp": "^3.9.1"
   },
