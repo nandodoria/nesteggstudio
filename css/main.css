@@ -1,2 +1,17 @@
-body{background-color:#f1f1f1}
 /*# sourceMappingURL=main.css.map */
+
+@charset "UTF-8";
+
+body
+{
+	background-color: #EBEEF3;
+}
+
+
+.body-text-blue
+{
+	font-family: Futura;
+	color: #133450;
+	font-size: 16px;
+	line-height: 24px;
+}
