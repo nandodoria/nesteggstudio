@@ -1,5 +1,5 @@
 # Nest Egg Studio
-Fanshawe Group Project
+Fanshawe Group Project.
 This project is an agency site for Carter Rose and Fernando D'Oria
 
 ## Getting Started
