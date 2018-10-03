@@ -1,0 +1,30 @@
+{
+  "name": "agency_x",
+  "version": "1.0.0",
+  "description": "extra credit in-class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crose20/agency_x.git"
+  },
+  "keywords": [
+    "extra",
+    "credit",
+    "project"
+  ],
+  "author": "Carter and Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crose20/agency_x/issues"
+  },
+  "homepage": "https://github.com/crose20/agency_x#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}
