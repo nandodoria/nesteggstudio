@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crose20/agency_x.git"
+    "url": "git+https://github.com/nandodoria/nesteggstudio.git"
   },
   "keywords": [
     "extra",
@@ -18,9 +18,9 @@
   "author": "Carter and Fernando",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crose20/agency_x/issues"
+    "url": "https://github.com/nandodoria/nesteggstudio/issues"
   },
-  "homepage": "https://github.com/crose20/agency_x#readme",
+  "homepage": "https://github.com/nandodoria/nesteggstudio#readme",
   "dependencies": {
     "gulp": "^3.9.1"
   },
