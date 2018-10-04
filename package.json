@@ -1,7 +1,7 @@
 {
   "name": "agency_x",
   "version": "1.0.0",
-  "description": "extra credit in-class project",
+  "description": "Nest Egg Studio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/nandodoria/nesteggstudio.git"
   },
   "keywords": [
-    "extra",
-    "credit",
-    "project"
+    "Fanshawe",
+    "Agency",
+    "Project",
+    "Nest Egg Studio"
   ],
   "author": "Carter and Fernando",
   "license": "MIT",

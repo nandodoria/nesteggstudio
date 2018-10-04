@@ -1,6 +1,7 @@
 // JavaScript Document
 (function() {
 	"use strict";
+
 	console.log("SEAF fired");
 
 //variables
