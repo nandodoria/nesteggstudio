@@ -20,10 +20,9 @@ Our site is a one-page design, we have the index.html set-up
 * 10/03 - Created base for HTML files, CSS, and JavaScript
 * 10/03 - Frontend development started using Sass and HTML
 * 10/03 - Working with JavaScript to create Lightbox effect 
-* 10/03 - 
-* 10/03 - 
-* 10/03 - 
-* 10/05 - We're done!
+* 10/04 - Adding new Sass variables
+* 10/04 - Added new minimal thumbnails
+* 10/04 - We're done!
 
 ## Installing
 
