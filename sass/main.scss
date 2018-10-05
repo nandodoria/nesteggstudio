@@ -216,18 +216,21 @@ ul li a:hover
 	background:rgba(0,0,0,0.85);
 }
 
-#lightbox h5
+#close_lb
 {
 	color: $white;
 	position: absolute;
 	top: 0px;
 	margin-left: 40px;
-	font-size: 21px;
+	font-family: Futura;
+	font-size: 30px;
+	margin-top: 40px;
 }
 
-#lightbox h5:hover
+#close_lb:hover
 {
 	cursor: pointer;
+	opacity: 0.9;
 }
 
 #lightbox_content img
@@ -248,6 +251,17 @@ ul li a:hover
 	font-size: 16px;
 	line-height: 24px;
 }
+
+#carterimagediv img:hover
+{
+	opacity: 0.95;
+}
+
+#nandoimagediv img:hover
+{
+	opacity: 0.95;
+}
+
 
 #lb_carterimage1
 {
